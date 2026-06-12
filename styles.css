@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body { font-family: 'Inter', system_ui, sans-serif; }
+h1, h2, h3 { font-family: 'Playfair Display', system_ui, serif; }
+
+/* Extra flair for clouds, gradients, and subtle scripture overlays */
